@@ -5,7 +5,7 @@ I'm an engineering student focused on communications and computer systems, passi
 
 ## 💻 Skills & Hardware Experience
 - **Programming Languages:** C, Python
-- **Microcontrollers (MCUs):** STM32 (ARM Cortex-M), AVR (ATmega32)
+- **Microcontrollers (MCUs):** STM32 (ARM Cortex-M4), AVR (ATmega32)
 - **Real-Time OS:** FreeRTOS (Basics)
 - **Scripting & Automation:** Bash scripting (Basics)
 - **Environments:** Linux (Ubuntu), VirtualBox
