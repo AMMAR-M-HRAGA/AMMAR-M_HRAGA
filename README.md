@@ -1,5 +1,4 @@
-# 👋 Hello there! I'm Ammar Mohammed Ammar
-
+# 👋 Hello there! I'm Ammar Mohammed
 ## 🚀 About Me
 I'm a mechatronics engineering student focusing on communications and computer systems, passionate about embedded systems and automotive cybersecurity.
 
